@@ -121,6 +121,24 @@ section.testimoni .border_testi{
     border-top: 8px solid var(--primary-color);
 }
 
+section.testimoni .box_testimoni{
+    background-color: #605EA1;
+    border-radius: 30px;
+    padding: 4rem;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    fill: #605EA1;
+}
+
+section.testimoni .testimoni_text{
+    width: 65%;
+}
+
+section.testimoni .testimoni_image{
+    width: 35%;
+}
+
 footer{
     background-image: url('../image/siger_overlay.svg');
     background-size: contain;
